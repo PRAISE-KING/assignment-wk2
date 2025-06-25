@@ -83,3 +83,9 @@ Open the notebook in Google Colab:
 ## 📜 License
 
 This project is open-source under the MIT License.
+
+## 👥 Contributors
+
+- [@praiseking](https://github.com/PRAISE-KING)  
+- [@john-doe](https://github.com/Tess-cloud)   
+
