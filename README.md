@@ -86,6 +86,6 @@ This project is open-source under the MIT License.
 
 ## 👥 Contributors
 
-- [@praiseking](https://github.com/PRAISE-KING)  
-- [@john-doe](https://github.com/Tess-cloud)   
+- [@praiseking](https://github.com/PRAISE-KING/tree/main)  
+- [@john-doe](https://github.com/Tess-cloud/AI-ML-Assignment-2.git)   
 
